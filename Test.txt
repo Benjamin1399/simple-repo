@@ -1,3 +1,5 @@
 I have made changes to this file.
 
 Do i need to keep adding git add?
+
+Yep you need it so it goes to index.

@@ -8,5 +8,10 @@ int main( int argc, char *argv[] )
   
   printf( "This is updated" );
   
+
+  /*Adjusting both files to see how commit works*/
+
+  printf( "Commit\n" );
+
   return 0;
 }
